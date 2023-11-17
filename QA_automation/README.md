@@ -3,5 +3,6 @@
 * [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * Selenium - JavaScript
 * Cypress
-  Скриншоты
+
+#  Скриншоты
 * ![Скриншот Selenium - Python - allure](https://github.com/beck-look/tree/blob/main/QA_automation/auto_UI_pytest.png)
