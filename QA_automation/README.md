@@ -1,5 +1,5 @@
 # Автотесты
-Размещаю информацию в виде скриншота из редактора (PyCharm и VSC) и запуск прогона атотестов
+Размещаю информацию в виде скриншота из редактора (PyCharm или VSC) и видео запуска прогона атотестов
 * [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * Selenium - JavaScript
 * Cypress
